@@ -1,0 +1,7 @@
+superstore-sales-analysis/
+├── superstore-sales-analysis.ipynb
+├── Superstore.csv
+├── README.md
+├── output/
+│   ├── charts/
+│   └── final-report.pdf
